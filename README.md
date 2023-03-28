@@ -1,1 +1,1 @@
-# goit-js-hw-07
+https://github.com/marlenawojtczak/goit-js-hw-07
